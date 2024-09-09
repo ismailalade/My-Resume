@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: aqua;
+}
+
+.cv {
+    height: 100%;
+    width: 100%;
+    border: 10pt solid gray;
+    background-color: whitesmoke;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+#digital {
+    background-color: azure;
+}
+
+#certification {
+    background-color: floralwhite;
+}
+
+#Further {
+    background-color: lightgray;
+}
+
+.footer {
+    text-align: center;
+    background-color: gray;
+}
+
+.photo {
+    display: inline-block;
+    float: left;
+    border: 5px solid gainsboro;
+}
+
+.sum {
+    clear: both;
+}
+
+.cert {
+    display: inline-block;
+    background-color: snow;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+}
+
+.dig {
+    display: inline-block;
+    background-color: snow;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+}
+
+.fur {
+    display: inline-block;
+    background-color: snow;
+    height: 25px;
+    width: 100px;
+    text-align: center;
+}
